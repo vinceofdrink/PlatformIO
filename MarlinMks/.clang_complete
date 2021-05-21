@@ -1,0 +1,27 @@
+-I/Users/vince/.platformio/packages/framework-arduinoavr/cores/arduino
+-I/Users/vince/.platformio/packages/framework-arduinoavr/variants/mega
+-I/Volumes/DEV/arduino/MarlinMks/.piolibdeps/30aa480
+-I/Volumes/DEV/arduino/MarlinMks/.piolibdeps/Adafruit NeoPixel_ID28
+-I/Volumes/DEV/arduino/MarlinMks/.piolibdeps/Arduino-L6470/src
+-I/Volumes/DEV/arduino/MarlinMks/.piolibdeps/LiquidCrystal_I2C_ID576
+-I/Users/vince/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/Wire/src
+-I/Volumes/DEV/arduino/MarlinMks/.piolibdeps/TMC2130Stepper_ID1493/src
+-I/Volumes/DEV/arduino/MarlinMks/.piolibdeps/TMC2208Stepper/src
+-I/Volumes/DEV/arduino/MarlinMks/.piolibdeps/U8glib-HAL_ID1932/src
+-I/Users/vince/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/SPI/src
+-I/Volumes/DEV/arduino/MarlinMks/.piolibdeps/c1921b4
+-I/Users/vince/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/SoftwareSerial/src
+-I/Users/vince/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/EEPROM/src
+-I/Users/vince/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/HID/src
+-I/Users/vince/.platformio/packages/toolchain-atmelavr/avr/include
+-I/Users/vince/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/5.4.0/include
+-I/Users/vince/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/5.4.0/include-fixed
+-I/Users/vince/.platformio/packages/tool-unity
+-I/Volumes/DEV/arduino/MarlinMks/include
+-I/Volumes/DEV/arduino/MarlinMks/Marlin
+-DPLATFORMIO=30607
+-DARDUINO_AVR_MEGA2560
+-DF_CPU=16000000L
+-DARDUINO_ARCH_AVR
+-DARDUINO=10805
+-D__AVR_ATmega2560__
